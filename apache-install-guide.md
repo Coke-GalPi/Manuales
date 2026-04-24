@@ -32,7 +32,7 @@ sudo systemctl status apache2
 
 Debe mostrar **active (running)**.
 
-## ✅ Abrir el puerto en el firewall (si tienes UFW activo)
+## Abrir el puerto en el firewall (si tienes UFW activo)
 
 ### Permitir HTTP (puerto 80)
 
